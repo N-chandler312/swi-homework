@@ -8,7 +8,7 @@
 
 
 ### 任务 1 
-![](images\java3.png)
+![](images/java3.png)
  
 (2)1.PC，IR 寄存器的作用
 
@@ -61,7 +61,7 @@ int x = 7;
 int z = x + w; 
 
 ### 任务2 
-![](images\java4.png)
+![](images/java4.png)
  
 (1)1.用一句话总结程序的功能
 
